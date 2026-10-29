@@ -1,0 +1,33 @@
+{
+  "name": "sarvam-socket-mvp",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saidittoaccount/sarvam_socket_mvp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saidittoaccount/sarvam_socket_mvp/issues"
+  },
+  "homepage": "https://github.com/saidittoaccount/sarvam_socket_mvp#readme",
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "sarvam-conv-ai-sdk": "^0.0.42"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "prettier": "^3.9.10",
+    "typescript": "^7.0.2"
+  },
+  "private": true
+}
